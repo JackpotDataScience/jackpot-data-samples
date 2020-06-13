@@ -4,6 +4,6 @@ We maintain a current database on basic demographic data for over 20K business b
 
 ## This Data Includes:
 
-*Bullet 1*
+* Bullet 1
 
-*Bullet 2*
+* Bullet 2
