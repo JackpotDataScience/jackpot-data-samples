@@ -52,6 +52,8 @@ We maintain a current database on data for over 80K business listed for sale thr
 
 * Broker LinkedIn
 
+* Listing URL
+
 * Company URL
 
 * Company Website Text
