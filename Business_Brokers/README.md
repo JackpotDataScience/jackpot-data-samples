@@ -4,6 +4,40 @@ We maintain a current database on basic demographic data for over 20K business b
 
 ## This Data Includes:
 
-* Bullet 1
+* Broker Name
 
-* Bullet 2
+* Broker Last Name	
+
+* Broker First Name	
+
+* State	
+
+* City	
+
+* Street Address	
+
+* Postal Code
+
+* Complete Address (in one line so it can be Geo-plotted)
+
+* Email
+
+* Cell Phone	
+
+* Office Phone	
+
+* LinkedIn Address	
+
+* Company Name (if applicable)	
+
+* Company URL (if applicable)	
+
+* Accredations	(if applicable)
+
+* Industries Served (where specified)	
+
+* Broker Biography (where applicable)
+
+* Reviews (if applicable)	
+
+* Website Info (Raw, cleaned text) 
